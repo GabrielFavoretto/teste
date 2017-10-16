@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508120682 source:c:\users\cliente\desktop\proj\lp projs\loteria\functions.c
+
+1508120750 source:c:\users\cliente\desktop\proj\lp projs\loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+
